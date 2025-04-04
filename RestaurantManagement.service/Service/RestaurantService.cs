@@ -1,11 +1,12 @@
-﻿using RestaurantManagement.DAL.Data;
+﻿using AutoMapper;
+using RestaurantManagement.DAL.Data;
 using RestaurantManagement.DAL.Models;
 using RestaurantManagement.service.Models;
 using RestaurantManagement.Service.Interfaces;
 
 namespace RestaurantManagement.Service.Services
 {
-    public class RestaurantService(IRestaurantRepository _restaurantRepository) : IRestaurantService
+    public class RestaurantService(IRestaurantRepository _restaurantRepository,IMapper _mapper) : IRestaurantService
     {
        
         public void AddRestaurant(RestaurantModel restaurant)
@@ -28,10 +29,14 @@ namespace RestaurantManagement.Service.Services
             return _restaurantRepository.GetRestaurantById(id);
         }
 
-
         public void UpdateRestaurant(RestaurantModel restaurant)
         {
             _restaurantRepository.UpdateRestaurant(restaurant.Id,restaurant.Nom, restaurant.Adresse, restaurant.Cuisine, restaurant.Note, restaurant.Image);
+        }
+
+        public RestaurantModel GetRestaurantModelFormRestaurant(Restaurant restaurant)
+        {
+            return _mapper.Map<RestaurantModel>(restaurant);
         }
     }
 }

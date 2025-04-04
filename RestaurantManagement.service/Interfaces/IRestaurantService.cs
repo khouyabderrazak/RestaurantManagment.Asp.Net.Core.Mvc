@@ -12,6 +12,9 @@ namespace RestaurantManagement.Service.Interfaces
         void AddRestaurant(RestaurantModel restaurant);
         void UpdateRestaurant(RestaurantModel restaurant);
         void DeleteRestaurant(int id);
+
+        RestaurantModel GetRestaurantModelFormRestaurant(Restaurant restaurant);
+   
     }
 
 }

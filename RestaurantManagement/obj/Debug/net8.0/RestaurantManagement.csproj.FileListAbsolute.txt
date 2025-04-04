@@ -302,3 +302,4 @@ C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement\bin\De
 C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement\bin\Debug\net8.0\RestaurantManagement.service.dll
 C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement\bin\Debug\net8.0\RestaurantManagement.service.pdb
 C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement\bin\Debug\net8.0\RestaurantManagement.DAL.pdb
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement\bin\Debug\net8.0\AutoMapper.dll

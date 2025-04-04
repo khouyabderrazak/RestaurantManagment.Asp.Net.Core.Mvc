@@ -12,6 +12,7 @@ namespace RestaurantManagement.service.DependencyInjection
         public static void AddRestaurantManagmentService(this IServiceCollection services, IConfiguration _configuration)
         {
             services.AddScoped<IRestaurantRepository, RestaurantRepository>();
+            services.AddAutoMapper(typeof(AutoMapperProfile));
             services.AddAppDBContextService(_configuration);
         }
     }

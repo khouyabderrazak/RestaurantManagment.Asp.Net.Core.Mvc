@@ -40,25 +40,25 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ccp.PNG'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3h1iqssdvj"},{"Name":"integrity","Value":"sha256-9yH75eUl9RVhhr8Sr71ldPPERzYWM\u002BA7aBT4op7cT9I="},{"Name":"label","Value":"_content/RestaurantManagement/images/ccp.PNG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"122922"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229yH75eUl9RVhhr8Sr71ldPPERzYWM\u002BA7aBT4op7cT9I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 16:52:09 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"122922"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229yH75eUl9RVhhr8Sr71ldPPERzYWM\u002BA7aBT4op7cT9I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 17:16:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RestaurantManagement/images/ccp.PNG">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ccp.PNG'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9yH75eUl9RVhhr8Sr71ldPPERzYWM\u002BA7aBT4op7cT9I="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"122922"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229yH75eUl9RVhhr8Sr71ldPPERzYWM\u002BA7aBT4op7cT9I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 16:52:09 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"122922"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00229yH75eUl9RVhhr8Sr71ldPPERzYWM\u002BA7aBT4op7cT9I=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 17:16:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RestaurantManagement/images/cycle de vie d'une request asp mvc.jyq3y1yyo3.PNG">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cycle de vie d'une request asp mvc.PNG'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jyq3y1yyo3"},{"Name":"integrity","Value":"sha256-xa4Sde0duUTTKymoPRrdLIiNhDgUGHVJW0Yb\u002BOA0RWc="},{"Name":"label","Value":"_content/RestaurantManagement/images/cycle de vie d\u0027une request asp mvc.PNG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"186531"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022xa4Sde0duUTTKymoPRrdLIiNhDgUGHVJW0Yb\u002BOA0RWc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 15:05:09 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"186531"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022xa4Sde0duUTTKymoPRrdLIiNhDgUGHVJW0Yb\u002BOA0RWc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 17:16:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RestaurantManagement/images/cycle de vie d'une request asp mvc.PNG">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\cycle de vie d'une request asp mvc.PNG'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xa4Sde0duUTTKymoPRrdLIiNhDgUGHVJW0Yb\u002BOA0RWc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"186531"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022xa4Sde0duUTTKymoPRrdLIiNhDgUGHVJW0Yb\u002BOA0RWc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 15:05:09 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"186531"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022xa4Sde0duUTTKymoPRrdLIiNhDgUGHVJW0Yb\u002BOA0RWc=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 17:16:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RestaurantManagement/images/dvops.5d9hijryfv.PNG">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\dvops.PNG'))</AssetFile>
@@ -76,13 +76,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\encapsulation.PNG'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cn2mxjkprf"},{"Name":"integrity","Value":"sha256-6CNgjzj3fuZrc\u002BlMG5V1YN64/fE\u002Bo9x6O9\u002B4mMPZx\u002Bg="},{"Name":"label","Value":"_content/RestaurantManagement/images/encapsulation.PNG"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"275894"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226CNgjzj3fuZrc\u002BlMG5V1YN64/fE\u002Bo9x6O9\u002B4mMPZx\u002Bg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 15:30:20 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"275894"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226CNgjzj3fuZrc\u002BlMG5V1YN64/fE\u002Bo9x6O9\u002B4mMPZx\u002Bg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 17:16:21 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RestaurantManagement/images/encapsulation.PNG">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\encapsulation.PNG'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6CNgjzj3fuZrc\u002BlMG5V1YN64/fE\u002Bo9x6O9\u002B4mMPZx\u002Bg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"275894"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226CNgjzj3fuZrc\u002BlMG5V1YN64/fE\u002Bo9x6O9\u002B4mMPZx\u002Bg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 15:30:20 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"275894"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00226CNgjzj3fuZrc\u002BlMG5V1YN64/fE\u002Bo9x6O9\u002B4mMPZx\u002Bg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Apr 2025 17:16:21 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RestaurantManagement/images/routing middleware.3qnlmzcfol.PNG">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\routing middleware.PNG'))</AssetFile>
