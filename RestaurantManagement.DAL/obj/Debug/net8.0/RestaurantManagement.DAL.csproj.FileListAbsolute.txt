@@ -1,0 +1,15 @@
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.DAL\bin\Debug\net8.0\RestaurantManagement.DAL.deps.json
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.DAL\bin\Debug\net8.0\RestaurantManagement.DAL.runtimeconfig.json
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.DAL\bin\Debug\net8.0\RestaurantManagement.DAL.dll
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.DAL\bin\Debug\net8.0\RestaurantManagement.DAL.pdb
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net8.0\RestaurantManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net8.0\RestaurantManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net8.0\RestaurantManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net8.0\RestaurantManagement.DAL.AssemblyInfo.cs
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net8.0\RestaurantManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net8.0\RestaurantManagement.DAL.sourcelink.json
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net8.0\RestaurantManagement.DAL.dll
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net8.0\refint\RestaurantManagement.DAL.dll
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net8.0\RestaurantManagement.DAL.pdb
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net8.0\RestaurantManagement.DAL.genruntimeconfig.cache
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.DAL\obj\Debug\net8.0\ref\RestaurantManagement.DAL.dll

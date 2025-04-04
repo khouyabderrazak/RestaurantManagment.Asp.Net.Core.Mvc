@@ -1,0 +1,16 @@
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.service\bin\Debug\net8.0\RestaurantManagement.service.deps.json
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.service\bin\Debug\net8.0\RestaurantManagement.service.dll
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.service\bin\Debug\net8.0\RestaurantManagement.service.pdb
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.service\bin\Debug\net8.0\RestaurantManagement.DAL.dll
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.service\bin\Debug\net8.0\RestaurantManagement.DAL.pdb
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.service\obj\Debug\net8.0\RestaurantManagement.service.csproj.AssemblyReference.cache
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.service\obj\Debug\net8.0\RestaurantManagement.service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.service\obj\Debug\net8.0\RestaurantManagement.service.AssemblyInfoInputs.cache
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.service\obj\Debug\net8.0\RestaurantManagement.service.AssemblyInfo.cs
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.service\obj\Debug\net8.0\RestaurantManagement.service.csproj.CoreCompileInputs.cache
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.service\obj\Debug\net8.0\RestaurantManagement.service.sourcelink.json
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.service\obj\Debug\net8.0\Restaura.F6644CEF.Up2Date
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.service\obj\Debug\net8.0\RestaurantManagement.service.dll
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.service\obj\Debug\net8.0\refint\RestaurantManagement.service.dll
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.service\obj\Debug\net8.0\RestaurantManagement.service.pdb
+C:\Users\akhouy\Desktop\projets\RestaurantManagement\RestaurantManagement.service\obj\Debug\net8.0\ref\RestaurantManagement.service.dll
