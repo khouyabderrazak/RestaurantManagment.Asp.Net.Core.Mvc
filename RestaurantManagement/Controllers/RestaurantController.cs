@@ -20,14 +20,7 @@ namespace RestaurantManagement.Controllers
         {
             var restaurants = _restaurantService.GetAllRestaurants();
 
-            List<RestaurantModel> restaurantModels = new List<RestaurantModel>();
-
-            foreach(var restauarant in restaurants)
-            {
-                restaurantModels.Add(_restaurantService.GetRestaurantModelFormRestaurant(restauarant));
-            }
-
-            return View(restaurantModels);
+            return View(restaurants);
         }
 
         // GET: RestaurantController/Details/5
@@ -35,7 +28,7 @@ namespace RestaurantManagement.Controllers
         {
             var restaurant = _restaurantService.GetRestaurantById(id);
             
-            return View(_restaurantService.GetRestaurantModelFormRestaurant(restaurant));
+            return View(restaurant);
         }
 
         // GET: RestaurantController/Create
@@ -64,7 +57,7 @@ namespace RestaurantManagement.Controllers
         public ActionResult Edit(int id)
         {
             var restaurant = _restaurantService.GetRestaurantById(id);
-            return View(_restaurantService.GetRestaurantModelFormRestaurant(restaurant));
+            return View(restaurant);
         }
 
         // POST: RestaurantController/Edit/5
@@ -88,7 +81,7 @@ namespace RestaurantManagement.Controllers
         public ActionResult Delete(int id)
         {
             var restaurant = _restaurantService.GetRestaurantById(id);
-            return View(_restaurantService.GetRestaurantModelFormRestaurant(restaurant));
+            return View(restaurant);
         }
 
         // POST: RestaurantController/Delete/5

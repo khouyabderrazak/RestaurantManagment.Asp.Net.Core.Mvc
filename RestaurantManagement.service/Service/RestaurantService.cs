@@ -19,14 +19,26 @@ namespace RestaurantManagement.Service.Services
             _restaurantRepository.DeleteRestaurant(id);
         }
 
-        public List<Restaurant> GetAllRestaurants()
+        public List<RestaurantModel> GetAllRestaurants()
         {
-            return _restaurantRepository.GetAllRestaurants();
+            
+            var restaurants = _restaurantRepository.GetAllRestaurants();
+
+            List<RestaurantModel> restaurantModels = new List<RestaurantModel>();
+
+            foreach (var restauarant in restaurants)
+            {
+                restaurantModels.Add(GetRestaurantModelFormRestaurant(restauarant));
+            }
+
+            return restaurantModels;
+
         }
 
-        public Restaurant GetRestaurantById(int id)
+        public RestaurantModel GetRestaurantById(int id)
         {
-            return _restaurantRepository.GetRestaurantById(id);
+            Restaurant restaurant = _restaurantRepository.GetRestaurantById(id);
+            return GetRestaurantModelFormRestaurant(restaurant);
         }
 
         public void UpdateRestaurant(RestaurantModel restaurant)
@@ -34,7 +46,7 @@ namespace RestaurantManagement.Service.Services
             _restaurantRepository.UpdateRestaurant(restaurant.Id,restaurant.Nom, restaurant.Adresse, restaurant.Cuisine, restaurant.Note, restaurant.Image);
         }
 
-        public RestaurantModel GetRestaurantModelFormRestaurant(Restaurant restaurant)
+        private RestaurantModel GetRestaurantModelFormRestaurant(Restaurant restaurant)
         {
             return _mapper.Map<RestaurantModel>(restaurant);
         }
